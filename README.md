@@ -17,8 +17,6 @@ Skills: REACT / JS / HTML / CSS / NODE JS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rashedabir)  
 
-![GitHub metrics](https://metrics.lecoq.io/rashedabir)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rashedabir)  
+![GitHub metrics](https://metrics.lecoq.io/rashedabir)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rashedabir)  
 
 ![Profile views](https://gpvc.arturio.dev/rashedabir)  
