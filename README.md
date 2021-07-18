@@ -1,4 +1,4 @@
-### Hi there 👋, Rashed Khan
+### Hi there 👋, I'm Rashed Khan
 #### Design and Development
 
 ![I am GitHub Readme Generator's creator](https://github.com/rashedabir/rashedabir/blob/main/OFFICIAL.png)
