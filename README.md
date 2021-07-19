@@ -28,7 +28,8 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
 
 <h3>My Activities Statistics:</h3>
 Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.
-</br>
+
+
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&layout=compact&theme=tokyonight"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rashedabir&theme=react-dark)  
