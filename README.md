@@ -1,5 +1,5 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Rashed Khan
-#### Design and Development
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Rashed Khan</h1>
+<h3 align="center">Design and Development</h3>
 
 ![Rashed Khan](https://github.com/rashedabir/rashedabir/blob/main/rashed.png)
 
@@ -28,7 +28,7 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
 
 <h3>My Activities Charts:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&theme=tokyonight)](https://github.com/rashedabir) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true&count_private=true)  
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&theme=tokyonight)](https://github.com/rashedabir) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true&count_private=true)<p/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rashedabir&theme=react-dark)  
 
