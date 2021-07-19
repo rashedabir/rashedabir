@@ -18,10 +18,11 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
 - 🌱 I’m currently learning: 
 <p><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next js"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue"></p>
 
-:coffee: &emsp;Connect with me!
+:coffee: &emsp; <h3>Connect with me!</h3>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abu.rashed.abir) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashedabir/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rashedabir_) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rashedabir_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashedabir.cse@gmail.com)
 
+<h3>My Activities Charts:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&theme=tokyonight)](https://github.com/rashedabir) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true&count_private=true)  
 
