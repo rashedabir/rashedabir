@@ -26,7 +26,8 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abu.rashed.abir) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashedabir/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rashedabir_) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rashedabir_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashedabir.cse@gmail.com)
 <h3>📲 +880 162 9341869</h3>
 
-<h3>My Activities Charts:</h3>
+<h3>My Activities Statistics:</h3>
+Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&layout=compact&theme=tokyonight"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true&count_private=true)
 
@@ -34,4 +35,4 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
 
 ![GitHub metrics](https://metrics.lecoq.io/rashedabir)
 
-![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/Meghna-DAS?tab=followers"><img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge"></a>
+![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/rashedabir?tab=followers"><img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a>
