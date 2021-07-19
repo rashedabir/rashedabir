@@ -6,7 +6,7 @@
 
 I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daffodil International University. I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.
 
-<h3 align="left">Currently working with</h3>
+<h3 align="left">Currently working with:</h3>
 <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" /> </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
@@ -24,6 +24,7 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
 <h3> :coffee: &emsp; Connect with me!</h3>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abu.rashed.abir) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashedabir/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rashedabir_) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rashedabir_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashedabir.cse@gmail.com)
+<h3>📲 +880 162 9341869</h3>
 
 <h3>My Activities Charts:</h3>
 
