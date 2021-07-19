@@ -32,6 +32,6 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rashedabir&theme=react-dark)  
 
-![GitHub metrics](https://metrics.lecoq.io/rashedabir)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rashedabir&theme=dark)  
+![GitHub metrics](https://metrics.lecoq.io/rashedabir)
 
 ![Profile views](https://gpvc.arturio.dev/rashedabir)  
