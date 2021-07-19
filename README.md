@@ -36,4 +36,4 @@ Please keep in mind these are just my most used languages within my Repos on Git
 
 ![GitHub metrics](https://metrics.lecoq.io/rashedabir)
 
-![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/rashedabir?tab=followers"><img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a>
+![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/rashedabir?tab=followers"><img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" /> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="" />
