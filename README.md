@@ -19,7 +19,7 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&theme=tokyonight)](https://github.com/rashedabir) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rashedabir)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rashedabir&theme=react-dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/rashedabir)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rashedabir)  
 
