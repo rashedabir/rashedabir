@@ -28,10 +28,10 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
 
 <h3>My Activities Charts:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&theme=tokyonight)](https://github.com/rashedabir) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true&count_private=true)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir-DAS&layout=compact&theme=tokyonight"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rashedabir&theme=react-dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/rashedabir)
 
-![Profile views](https://gpvc.arturio.dev/rashedabir)  
+![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/Meghna-DAS?tab=followers"><img src="https://img.shields.io/github/followers/Meghna-DAS?label=Followers&style=social" alt="GitHub Badge"></a>
