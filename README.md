@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Rashed Khan</h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Rashed</h1>
 <h3 align="center">Design and Development</h3>
 
 ![Rashed Khan](https://github.com/rashedabir/rashedabir/blob/main/rashed.png)
@@ -36,4 +36,4 @@ Please keep in mind these are just my most used languages within my Repos on Git
 
 ![GitHub metrics](https://metrics.lecoq.io/rashedabir)
 
-![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/rashedabir?tab=followers"><img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" /> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="" />
+![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/rashedabir?tab=followers"><img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" />
