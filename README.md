@@ -2,7 +2,7 @@
 <h3 align="center">Design and Development</h3>
 
 <h5 align="center">
-*I'm currently pursuing B.SC in CSE from [Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/ "daffodil international university"). I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.*
+I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd">Daffodil International University (DIU)</a> I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.
 </h5>
 
 ### Talking about Personal Stuffs...
