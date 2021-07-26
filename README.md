@@ -11,16 +11,17 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 ### Language & Tools I Know
 
 - Languages: **C, Java, Python, Assembly, JavaScript, SQL, HTML, CSS, PHP.**
-- FrameWorks: **React JS, Bootstrap, React-Bootstrap, Node JS, Express JS, Material UI, Next JS, React-Redux.**
+- FrameWorks: **React JS, Node JS, Express JS, Next JS, React-Redux.**
+- CSS Frameworks: **Bootstrap, React-Bootstrap, Material UI, Tailwind CSS.**
 - Database: **Oracle, MySQL, MongoDB.**
 - Version Control: **Git, GitHub, GitLab.**
 - Others: **Data Structures, Algorithms.**
-- Tools: **Android Studio, MS Office, Photoshop, Canva, Codesandbox.**
+- Tools: **Android Studio, MS Office, Photoshop, Canva, Codesandbox, Postman**
 - Cloud Control: **Netlify, Heruko, Firebase.**
 - Interests: **Machine Learning, Artificial Intelligence.**
 <br>
 
-### Connect with me!
+### ☕ Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abu.rashed.abir) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashedabir/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rashedabir_) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rashedabir_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashedabir.cse@gmail.com)
 <br>
