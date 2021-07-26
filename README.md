@@ -16,7 +16,7 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 - Database: **Oracle, MySQL, MongoDB.**
 - Version Control: **Git, GitHub, GitLab.**
 - Others: **Data Structures, Algorithms.**
-- Tools: **Android Studio, MS Office, Photoshop, Canva, Codesandbox, Postman**
+- Tools: **Android Studio, MS Office, Photoshop, Canva, Codesandbox, Postman.**
 - Cloud Control: **Netlify, Heruko, Firebase.**
 - Interests: **Machine Learning, Artificial Intelligence.**
 <br>
