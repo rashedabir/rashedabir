@@ -10,13 +10,13 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 
 ### Language & Tools I Know
 
-- Languages: **C, Java, Python, Assembly, JavaScript, SQL, HTML, CSS, PHP.**
+- Languages: **C, Java, Python, Assembly, Prolog, JavaScript, SQL, HTML, CSS, PHP.**
 - FrameWorks: **React JS, Node JS, Express JS, Next JS, React-Redux.**
 - CSS Frameworks: **Bootstrap, React-Bootstrap, Material UI, Tailwind CSS.**
 - Database: **Oracle, MySQL, MongoDB.**
 - Version Control: **Git, GitHub, GitLab.**
 - Others: **Data Structures, Algorithms.**
-- Tools: **Android Studio, MS Office, Photoshop, Canva, Codesandbox, Postman.**
+- Tools: **Arena Emulator, MS Office, Photoshop, Canva, Camtasia, Codesandbox, Postman.**
 - Cloud Control: **Netlify, Heruko, Firebase.**
 - Interests: **Machine Learning, Artificial Intelligence.**
 <br>
