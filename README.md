@@ -10,7 +10,7 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 
 ### Language & Tools I Know
 
-- Languages: **C, Java, Python, Assembly, Prolog, JavaScript, SQL, HTML, CSS.**
+- Languages: **C, Java, Python, Assembly, Prolog, JavaScript, SQL, HTML & CSS.**
 - FrameWorks: **React JS, Node JS, Express JS, Next JS, React-Redux.**
 - CSS Frameworks: **Bootstrap, React-Bootstrap, Material UI, Tailwind CSS.**
 - Database: **Oracle, MySQL, MongoDB.**
