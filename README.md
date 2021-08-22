@@ -7,8 +7,11 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 
 ### Talking about Personal Stuffs...
 **✔ I ~~like~~ love coding.**
+<br/>
 **✔ I am working with JavaScript web Frameworks.**
+<br/>
 **✔ MERN stack Developer.**
+<br/>
 **✔ Visit my [Portfolio Website](https://rashed-abir.web.app/ "Portfolio Website") to know more about me.**
 
 ### Language & Tools I Know
