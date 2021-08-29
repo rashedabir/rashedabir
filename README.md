@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Rashed</h1>
 <h3 align="center">Design and Development</h3>
 
-<h4 align="center">
+<h4>
 I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd">Daffodil International University (DIU)</a> I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.
 </h4>
 
