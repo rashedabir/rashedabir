@@ -12,7 +12,7 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 <br/>
 **✔ MERN stack Developer.**
 <br/>
-**✔ Visit my [Blog Site](https://codeblogs-tech.web.app/ "Blog Site")**
+**✔ Visit my [Blog Site](https://codeblogs-tech.web.app/ "Blog Site") to know about my latest post.**
 <br/>
 **✔ Visit my [Portfolio Website](https://rashed-abir.web.app/ "Portfolio Website") to know more about me.**
 
