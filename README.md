@@ -37,7 +37,7 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 ### My Activities Statistics
 **Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.**
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&layout=compact&theme=tokyonight">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&layout=compact&theme=tokyonight">
 <br>
 
 ------------
