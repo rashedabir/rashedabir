@@ -43,4 +43,4 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 
 ------------
 
-![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/rashedabir?tab=followers"><img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" />
+![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/rashedabir?tab=followers">   <img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" />
