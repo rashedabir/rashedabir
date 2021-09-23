@@ -37,10 +37,10 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 ### My Activities Statistics
 **Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&layout=compact&theme=tokyonight">![Rashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&layout=compact&theme=tokyonight">  ![Rashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true)
 
 <br>
 
 ------------
 
-![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/rashedabir?tab=followers">   <img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" />
+![Profile views](https://gpvc.arturio.dev/rashedabir) <a href="https://github.com/rashedabir?tab=followers"><img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" />
