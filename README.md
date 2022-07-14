@@ -22,7 +22,7 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 ### Language & Tools I Know
 
 - Languages: **C, C++, Java, Python, Assembly, Prolog, JavaScript, SQL, HTML & CSS, Dart, Typescript.**
-- FrameWorks: **React JS, Node JS, Express JS, Next JS, React-Redux, Nest JS, Adonis JS, Redux-Toolkit, Recoil JS Type-ORM, Socket-IO, Fresh-JS.**
+- FrameWorks: **React JS, Node JS, Express JS, Next JS, React-Redux, Nest JS, Adonis JS, Redux-Toolkit, Recoil JS, Type-ORM, Socket-IO, Fresh-JS.**
 - CSS Frameworks: **Bootstrap, React-Bootstrap, Material UI, Tailwind CSS.**
 - Database: **Oracle, MySQL, PostgreSQL, MongoDB.**
 - Version Control: **Git, GitHub, GitLab, Git-Flow.**
