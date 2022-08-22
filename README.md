@@ -5,7 +5,7 @@
 <img src="https://github.com/rashedabir/rashedabir/blob/main/rashed%20abir.png" alt="" />
 
 <h4>
-I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd">Daffodil International University (DIU)</a> I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.
+I've completed B.SC in CSE from <a href="https://daffodilvarsity.edu.bd">Daffodil International University (DIU)</a> I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions. In my everyday life, I try to love reading a book, write different things, helping people, and coding as well. I also think about different sorts of people. That basically inspires me as a different aspect.
 </h4>
 
 ### Talking about Personal Stuffs...
@@ -23,12 +23,12 @@ I'm currently pursuing B.SC in CSE from <a href="https://daffodilvarsity.edu.bd"
 
 - Languages: **C, C++, Java, Python, Assembly, Prolog, JavaScript, SQL, HTML & CSS, Dart, Typescript.**
 - FrameWorks: **React JS, Node JS, Express JS, Next JS, React-Redux, Nest JS, Adonis JS, Redux-Toolkit, Recoil JS, Type-ORM, Socket-IO, Fresh-JS.**
-- CSS Frameworks: **Bootstrap, React-Bootstrap, Material UI, Tailwind CSS.**
+- CSS Frameworks: **Bootstrap, React-Bootstrap, Material UI, Tailwind CSS, Ant Design**
 - Database: **Oracle, MySQL, PostgreSQL, MongoDB.**
 - Version Control: **Git, GitHub, GitLab, Git-Flow.**
 - Others: **Data Structures, Algorithms.**
-- Tools: **Arena Emulator, MS Office, Photoshop, Canva, Camtasia, Codesandbox, Postman.**
-- Cloud Control: **Netlify, Heruko, Firebase, Varcel.**
+- Tools: **Arena Emulator, MS Office, Photoshop, Canva, Camtasia, Codesandbox, Postman, Navicat**
+- Cloud Control: **Netlify, Heruko, Firebase, Varcel, PM2**
 - Interests: **Machine Learning, Artificial Intelligence.**
 <br>
 
