@@ -27,8 +27,8 @@ I've completed B.SC in CSE from <a href="https://daffodilvarsity.edu.bd">Daffodi
 - Database: **Oracle, MySQL, PostgreSQL, MongoDB.**
 - Version Control: **Git, GitHub, GitLab, Git-Flow.**
 - Others: **Data Structures, Algorithms.**
-- Tools: **Arena Emulator, MS Office, Photoshop, Canva, Camtasia, Codesandbox, Postman, Navicat**
-- Cloud Control: **Netlify, Heruko, Firebase, Varcel, PM2**
+- Tools: **Arena Emulator, MS Office, Photoshop, Canva, Camtasia, Codesandbox, Postman, Navicat.**
+- Cloud Control: **Netlify, Heruko, Firebase, Varcel, PM2.**
 - Interests: **Machine Learning, Artificial Intelligence.**
 <br>
 
