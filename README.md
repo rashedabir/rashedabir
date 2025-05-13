@@ -50,4 +50,4 @@ I've completed B.SC in CSE from <a href="https://daffodilvarsity.edu.bd">Daffodi
 
 ------------
 
-![Profile Views](https://komarev.com/ghpvc/?username=rashedabir&color=green) <a href="https://github.com/rashedabir?tab=followers"><img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" />
+![Profile Views](https://komarev.com/ghpvc/?username=rashedabir&color=green) <a href="https://github.com/rashedabir?tab=followers"><img src="https://img.shields.io/github/followers/rashedabir?label=Followers&style=social" alt="GitHub Badge"></a> <a href="mailto:rashedabir.cse@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="" /></a>
