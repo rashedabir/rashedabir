@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rashed Abir</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | MERN | FinTech</h3>
 
-<img src="https://github.com/rashedabir/rashedabir/blob/main/rashed%20abir.png" alt="Rashed Abir" />
-
 <h4 align="center">
 Software Engineer with 4+ years of experience building scalable web applications, fintech solutions, and SaaS platforms.
 Specialized in React.js, Node.js, Next.js, and microservices architecture.
