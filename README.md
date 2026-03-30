@@ -123,10 +123,6 @@ Git, GitHub, GitLab, PM2, Postman, Figma, Jira
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rashedabir&theme=tokyo-night)
 
-![Rashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&layout=compact&theme=tokyonight">
-
 ---
 
 ### ☕ Connect with me
