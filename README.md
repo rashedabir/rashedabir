@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rashed Abir</h1>
+<h1 align="center">Hi there 👋, I'm Rashed</h1>
 <h3 align="center">Full-Stack Software Engineer | FinTech | Scalable Systems</h3>
 
 <h4 align="center">
