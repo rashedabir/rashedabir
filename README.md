@@ -9,6 +9,12 @@ Experienced in high-performance systems, real-time applications, and cloud infra
 
 ---
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/rashedabir/rashedabir/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📩 Open to Opportunities
 
 I'm open to **remote opportunities**, freelance projects, and collaborations in full-stack development, fintech, and scalable systems.
@@ -111,9 +117,14 @@ Git, GitHub, GitLab, PM2, Postman, Figma, Jira
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rashedabir&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rashedabir&theme=tokyo-night)
 
 ![Rashed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashedabir&theme=tokyonight&show_icons=true)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedabir&layout=compact&theme=tokyonight">
 
 ---
